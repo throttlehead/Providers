@@ -4,7 +4,7 @@ namespace SocialiteProviders\Cronofy;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
-class LinkedInExtendSocialite
+class CronofyExtendSocialite
 {
     /**
      * Register the provider.
